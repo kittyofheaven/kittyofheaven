@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shironeko AKA kittyofheaven
 - 👀 I’m interested in game, woman, netflix, and some programming shit
 - 🌱 I’m currently learning python now
-
+- 💞️ javascript & python
 
 <!---
 kittyofheaven/kittyofheaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
