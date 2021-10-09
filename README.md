@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shironeko AKA kittyofheaven
-- 👀 I’m interested in game, woman, netflix, and some programming shit
-- 🌱 I’m currently learning python now
+- 👀 I’m interested in game, woman, machine learning, and some programming shit
+- 🌱 I’m currently learning Tensorflow now
 - 💞️ javascript & python
 
 <!---
