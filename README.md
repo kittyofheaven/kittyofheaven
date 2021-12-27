@@ -2,7 +2,7 @@
 - 👀 I’m interested in game, machine learning, and some programming shit
 - 🌱 I’m currently learning Tensorflow now
 - 🛠 My current skill set : Tensorflow, Flask, Fast API, Python, Javascript, Typescript, Mongodb, HTML, CSS, Linux command, Docker
-- 📫 Instagram - [@sheloveskktty](https://www.instagram.com/sheloveskktty/)
+<!-- - 📫 Instagram - [@sheloveskktty](https://www.instagram.com/sheloveskktty/) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittyofheaven&theme=highcontrast)](https://github.com/kittyofheaven/github-readme-stats) -->
 
