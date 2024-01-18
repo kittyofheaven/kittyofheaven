@@ -10,7 +10,7 @@ ACHIEVEMENT
 - **Social Goods 1st Runner Up** Garuda Hacks 3.0 2022
 
 
-- 📫 Instagram - [@sheloveskktty](https://www.instagram.com/sheloveskktty/)
+- 📫 Instagram - [@hazelhandrata](https://www.instagram.com/hazelhandrata/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittyofheaven&theme=highcontrast)](https://github.com/kittyofheaven/github-readme-stats)
 
