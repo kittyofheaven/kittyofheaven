@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hazel Handrata AKA kittyofheaven
 - 👀 I’m interested in game, machine learning, and some programming shit
 - 🌱 I’m currently learning Tensorflow now
-- 🛠 My current skill set : SkLearn, Tensorflow, Flask, Fast API, Python, Javascript, Mongodb, HTML, CSS, Linux command, Docker
+- 🛠 My current skill set : Swift, SwiftUI, SkLearn, Tensorflow, Flask, Fast API, Python, Javascript, Mongodb, HTML, CSS, Linux command, Docker
 
 ACHIEVEMENT 
 - **Best Environment Hacks** Infinihacks 2021
